@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pathfinding-react-app/static/css/main.b853ee71.chunk.css",
+    "main.js": "/pathfinding-react-app/static/js/main.b9317738.chunk.js",
+    "main.js.map": "/pathfinding-react-app/static/js/main.b9317738.chunk.js.map",
+    "runtime-main.js": "/pathfinding-react-app/static/js/runtime-main.6cb9c9d8.js",
+    "runtime-main.js.map": "/pathfinding-react-app/static/js/runtime-main.6cb9c9d8.js.map",
+    "static/js/2.8e683c52.chunk.js": "/pathfinding-react-app/static/js/2.8e683c52.chunk.js",
+    "static/js/2.8e683c52.chunk.js.map": "/pathfinding-react-app/static/js/2.8e683c52.chunk.js.map",
+    "index.html": "/pathfinding-react-app/index.html",
+    "precache-manifest.bb8840457f3729a4834eb40296d6b2e5.js": "/pathfinding-react-app/precache-manifest.bb8840457f3729a4834eb40296d6b2e5.js",
+    "service-worker.js": "/pathfinding-react-app/service-worker.js",
+    "static/css/main.b853ee71.chunk.css.map": "/pathfinding-react-app/static/css/main.b853ee71.chunk.css.map"
+  }
+}
